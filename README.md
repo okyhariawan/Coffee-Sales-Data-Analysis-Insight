@@ -36,9 +36,9 @@ Peak Sales Hours:
 - Highest between 8 AM and 11 AM.
 - Stable from 12 PM to 4 PM.
 - Decline after 4 PM.
-- Sales Trends Over Time:
 
-General upward trend with peaks in June and July.
+Sales Trends Over Time:
+- General upward trend with peaks in June and July.
 
 Busiest Days of the Week:
 - Highest sales on Monday and Wednesday.
